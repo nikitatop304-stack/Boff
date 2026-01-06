@@ -19,7 +19,7 @@ from telethon.errors import FloodWaitError
 # ==================== НАСТРОЙКИ ====================
 API_ID = 34000428
 API_HASH = '68c4db995c26cda0187e723168cc6285'
-BOT_TOKEN = 'токен_от_BotFather'
+BOT_TOKEN = '8508366803:AAFTHrWsLsj9ViUy5PNp3PHiiVQnQKTwzx4'
 STRESSER_SESSION_STRING = """1AgAOMTQ5LjE1NC4xNjcuNDEBuxDpjE0VYduD7dvnG+U+Q5vtLX+EtGO7tgAe+CG0ryX1xIuvUA9MbUt7v9anxRwC5vCi5j7oZ6Fs6BDkuhYyfGWwwt8sC8kNHkyEXkpv8kgZjMMoXnV1hV+Otnk0zE5YSUxHBeQDZekUfQtr9deCW5NI6XiLIyadCzltoLOFM5BKd+MggXARh4Hafy3Pdv84Rqtu5PYnBSc9JxK0Srd3gsZ3FIXfBavSYmRpXYil1S/bhfcmSAQpFg756fobQTdnPRSnsA/ov0GHHcpjH+pDpdDqlDU9HwJxerhjALksGdAvScIr2GL1+bZMRBqVO9Rj4EIKyn797NVfrFV9pQJIFjw="""
 
 ADMIN_ID = 5522585352

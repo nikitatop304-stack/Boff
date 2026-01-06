@@ -19,7 +19,7 @@ BOT_TOKEN = '8508366803:AAGuooJ4PdmJrwL8AAeWV3sNK4BAMJLegFY'  # ПОЛУЧИ у 
 STRESSER_SESSION_STRING = """1AgAOMTQ5LjE1NC4xNjcuNDEBuxDpjE0VYduD7dvnG+U+Q5vtLX+EtGO7tgAe+CG0ryX1xIuvUA9MbUt7v9anxRwC5vCi5j7oZ6Fs6BDkuhYyfGWwwt8sC8kNHkyEXkpv8kgZjMMoXnV1hV+Otnk0zE5YSUxHBeQDZekUfQtr9deCW5NI6XiLIyadCzltoLOFM5BKd+MggXARh4Hafy3Pdv84Rqtu5PYnBSc9JxK0Srd3gsZ3FIXfBavSYmRpXYil1S/bhfcmSAQpFg756fobQTdnPRSnsA/ov0GHHcpjH+pDpdDqlDU9HwJxerhjALksGdAvScIr2GL1+bZMRBqVO9Rj4EIKyn797NVfrFV9pQJIFjw="""  # ТВОЯ StringSession
 
 ADMIN_ID = 5522585352  # Твой Telegram ID
-CHANNEL_USERNAME = '@WakeStreeser'  # Канал для подписки
+CHANNEL_USERNAME = '@Streeserinfo'  # Канал для подписки
 SUPPORT_USERNAME = '@wakeGuarantee'  # Поддержка
 REQUEST_PRICE = 0.1  # $ за 1 запрос
 REQUEST_DURATION = 15  # секунд за 1 запрос
